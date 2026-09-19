@@ -1,4 +1,4 @@
-Hi there! 🐈 I'm Prince
+Hi there! 🐈 I'm Sandeepa
 
 ## 💫 About Me
 - 📊 **Data Analyst** exploring **Data Science**
