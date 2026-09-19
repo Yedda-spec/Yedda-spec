@@ -6,7 +6,7 @@ Hi there! 🐈 I'm Prince
 - 📈 Currently mastering **Statistics & Machine Learning**
 - 🤝 Looking to collaborate on **data-driven projects**
 - 📍 Based in **Delhi, India**
-- 📬 Reach me at: [princecsk666@gmail.com](mailto:princecsk666@gmail.com)
+- 📬 Reach me at: [sandeepabiswas531@gmail.com](mailto:sandeepabiswas531@gmail.com)
 
 ---
 
