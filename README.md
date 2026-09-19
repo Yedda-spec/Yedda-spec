@@ -58,3 +58,15 @@ Hi there! 🐈 I'm Prince
 
 ## 📈 Contribution Graph
 [![graph](https://github-readme-activity-graph.vercel.app/graph?username=prncenium&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🌐 Connect With Me
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princecsk666@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prince-kumar-9525a121b)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prncenium)
+
+## 👁️ Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=prncenium&color=blueviolet&style=for-the-badge)
+
+<i>"Turning raw data into decisions, one query at a time."</i>
